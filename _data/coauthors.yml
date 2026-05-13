@@ -1,11 +1,11 @@
 "baras":
-  - firstname: ["John S.", "J. S."]
+  - firstname: ["John S.", "John S", "JS", "J.S.", "J. S."]
     url: https://johnbaras.com/
 
 "belta":
-  - firstname: ["Calin"]
+  - firstname: ["Calin", "C.", "C"]
     url: https://calinbelta.com/
 
 "puranic":
-  - firstname: ["Aniruddh G.", "A. G."]
+  - firstname: ["Aniruddh G.", "Aniruddh G", "AG", "A.G.", "A. G."]
     url: https://aniruddh-puranic.info/
