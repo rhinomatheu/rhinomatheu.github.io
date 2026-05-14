@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Maryland, College Park | Lockheed Martin
+subtitle: University of Maryland, College Park
 
 profile:
   align: right
@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Electrical & Computer Engineering Ph.D. student and Clark Doctoral Fellow at the <a href="https://isr.umd.edu/">Institute for Systems Research</a>, <a href="https://umd.edu/">University of Maryland, College Park</a>, working under the mentorship of Professor <a href="https://johnbaras.com/">John S. Baras</a>, Distinguished University Professor and Endowed Lockheed Martin Chair in Systems Engineering, and Professor <a href="https://calinbelta.com/">Calin Belta</a>, Brendan Iribe Endowed Professor of ECE and Computer Science.
+I am an Electrical & Computer Engineering Ph.D. student and Clark Doctoral Fellow at the <a href="https://umd.edu/">University of Maryland, College Park</a>, working under the mentorship of Professor <a href="https://johnbaras.com/">John S. Baras</a>, Distinguished University Professor and Endowed Lockheed Martin Chair in Systems Engineering, and Professor <a href="https://calinbelta.com/">Calin Belta</a>, Brendan Iribe Endowed Professor of Electrical & Computer Engineering and Computer Science.
